@@ -1,18 +1,5 @@
-# new-media-assignment-5
-<!doctype html>
 
-<html>
+ Hey, it's Drew
 
-<head></head>
+   Welcome to my repo with all of my assignments!
 
-<body>
-    <p>
-       Hey, it's Drew
-    </p>
-    <p>
-        Welcome to my repo with all of my assignments!
-    </p>
-
-</body>
-
-</html>
